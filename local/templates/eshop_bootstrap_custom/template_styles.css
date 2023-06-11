@@ -375,3 +375,9 @@ a:hover,
 #cont_catalog_menu_LkGdQn {
 	background-color: green;
 }
+
+
+.bx-content-section {
+    width: 100%;
+    max-width: 100%;
+}
